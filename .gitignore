@@ -1,0 +1,21 @@
+.DS_Store
+.local/
+# Unity 生成目录
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+# IDE / 生成工程文件
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.booproj
+*.pidb
+*.suo
