@@ -4,6 +4,8 @@ Unity C# 联机战斗原型：角色控制与第三人称相机（3C）、战斗
 
 **状态：未开工，环境已就绪**（2026-09-19）
 
+动手前先读 [`docs/操作手册-M1-工程与3C.md`](docs/操作手册-M1-工程与3C.md)——建工程、序列化设置、3C 接线的分步操作。
+
 ## 对应岗位
 
 09 米哈游 Unity 游戏客户端开发（gameplay）- 原神。岗位原文见 [workplan-docs](https://github.com/luckyrichor/workplan-docs)。

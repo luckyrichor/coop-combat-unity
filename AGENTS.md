@@ -8,7 +8,7 @@ Unity C# 联机战斗原型：角色控制与第三人称相机（3C）、战斗
 
 三个月求职计划六项目之一（原编号 ②），对应岗位 **09**（米哈游 Unity 游戏客户端开发 gameplay - 原神）。总计划见 [workplan-docs](https://github.com/luckyrichor/workplan-docs)。
 
-**当前状态：未开工，环境已就绪。**
+**当前状态：未开工，环境已就绪。** 建工程与 3C 的分步操作见 [`docs/操作手册-M1-工程与3C.md`](docs/操作手册-M1-工程与3C.md)，那份是给用户在 Windows 前照着做的，**不要把它的内容复制到本文件**。
 
 ## 环境：只在 Windows 机器上开发
 
