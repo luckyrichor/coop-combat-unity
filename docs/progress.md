@@ -22,3 +22,8 @@ tx 没有 luowindows SSH 主机配置；实际连接退出 255，名称解析失
 来源 coop-combat-unity@546868c，代码未修改。用户授权提前推进 W5–W7，并允许暂不可做项跳过。本次 pull --ff-only 无新增提交；Windows 入口 luowindows 仍无法解析，未核验远端工程/3C。
 
 W5 独立维护与 W7 M2 两个技能的输入→判定→表现，按授权暂跳过；没有实现/编译/编辑器验收，不标完成。恢复Windows后先核实M1、Force Text与Visible Meta Files，再做两个技能与场景/Prefab/动画/肉眼验收。UnityGames仍未收到，不猜其架构。此前章节为历史记录。
+
+
+## 2026-10-07 Codex：W8–W10实际执行
+
+本轮W8–W10：W9维护因Windows唯一开发机入口无法解析而暂跳过（实测ssh luowindows hostname，退出255）。W8/W10本项目是休息档，不编造里程碑。未运行Unity编译、batchmode、场景/Prefab或编辑器人工验收，原M1/3C/战斗技能前置缺口仍未完成。恢复Windows入口和工程后再补，此次只有进度记录更新。
