@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="5" result="Passed" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2026-10-13 10:46:39Z" end-time="2026-10-13 10:46:40Z" duration="0.8409725">
+  <test-suite type="TestSuite" id="1009" name="license-probe" fullname="license-probe" runstate="Runnable" testcasecount="5" result="Passed" start-time="2026-10-13 10:46:39Z" end-time="2026-10-13 10:46:40Z" duration="0.840973" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties />
+    <test-suite type="Assembly" id="1016" name="CoopTests.dll" fullname="E:/WorkPlan/coop-combat-unity/Game/Library/ScriptAssemblies/CoopTests.dll" runstate="Runnable" testcasecount="5" result="Passed" start-time="2026-10-13 10:46:39Z" end-time="2026-10-13 10:46:40Z" duration="0.776309" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="15296" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="EditMode" />
+      </properties>
+      <test-suite type="TestFixture" id="1010" name="CombatTests" fullname="CombatTests" classname="CombatTests" runstate="Runnable" testcasecount="5" result="Passed" start-time="2026-10-13 10:46:39Z" end-time="2026-10-13 10:46:40Z" duration="0.771503" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-case id="1012" name="DashCooldownAndPulseJudgement" fullname="CombatTests.DashCooldownAndPulseJudgement" methodname="DashCooldownAndPulseJudgement" classname="CombatTests" runstate="Runnable" seed="1421143075" result="Passed" start-time="2026-10-13 10:46:39Z" end-time="2026-10-13 10:46:39Z" duration="0.065657" asserts="0">
+          <properties />
+        </test-case>
+        <test-case id="1011" name="NormalizedAndFloodLimited" fullname="CombatTests.NormalizedAndFloodLimited" methodname="NormalizedAndFloodLimited" classname="CombatTests" runstate="Runnable" seed="1877835783" result="Passed" start-time="2026-10-13 10:46:39Z" end-time="2026-10-13 10:46:39Z" duration="0.001951" asserts="0">
+          <properties />
+        </test-case>
+        <test-case id="1013" name="ReplayAndNonFiniteIgnored" fullname="CombatTests.ReplayAndNonFiniteIgnored" methodname="ReplayAndNonFiniteIgnored" classname="CombatTests" runstate="Runnable" seed="722430139" result="Passed" start-time="2026-10-13 10:46:39Z" end-time="2026-10-13 10:46:39Z" duration="0.002663" asserts="0">
+          <properties />
+        </test-case>
+        <test-case id="1015" name="ReturnedSnapshotIsCopy" fullname="CombatTests.ReturnedSnapshotIsCopy" methodname="ReturnedSnapshotIsCopy" classname="CombatTests" runstate="Runnable" seed="1338774116" result="Passed" start-time="2026-10-13 10:46:39Z" end-time="2026-10-13 10:46:39Z" duration="0.000715" asserts="0">
+          <properties />
+        </test-case>
+        <test-case id="1014" name="TwoUdpClientsReceiveSameAuthoritativeState" fullname="CombatTests.TwoUdpClientsReceiveSameAuthoritativeState" methodname="TwoUdpClientsReceiveSameAuthoritativeState" classname="CombatTests" runstate="Runnable" seed="1777672566" result="Passed" start-time="2026-10-13 10:46:39Z" end-time="2026-10-13 10:46:40Z" duration="0.647125" asserts="0">
+          <properties />
+        </test-case>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

@@ -31,3 +31,7 @@ Unity C# 联机战斗原型：角色控制与第三人称相机（3C）、战斗
 ## Git LFS
 
 本仓库启用 LFS 管理 `.fbx` / 贴图 / 音频 / `.anim`。克隆后先 `git lfs install`。
+
+## Current runnable prototype
+
+Game/ is the Unity 2022.3.38f1c1 project. See docs/run.md and docs/refactoring-and-network.md for validation and manual acceptance boundaries.

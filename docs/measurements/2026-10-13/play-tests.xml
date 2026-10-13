@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="1" result="Passed" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2026-10-13 10:47:03Z" end-time="2026-10-13 10:47:04Z" duration="0.8822707">
+  <test-suite type="TestSuite" id="1000" name="license-probe" fullname="license-probe" runstate="Runnable" testcasecount="1" result="Passed" start-time="2026-10-13 10:47:03Z" end-time="2026-10-13 10:47:04Z" duration="0.882271" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties />
+    <test-suite type="Assembly" id="1003" name="CoopPlayTests.dll" fullname="E:/WorkPlan/coop-combat-unity/Game/Library/ScriptAssemblies/CoopPlayTests.dll" runstate="Runnable" testcasecount="1" result="Passed" start-time="2026-10-13 10:47:03Z" end-time="2026-10-13 10:47:04Z" duration="0.859493" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="43152" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="PlayMode" />
+      </properties>
+      <test-suite type="TestFixture" id="1001" name="SceneTests" fullname="SceneTests" classname="SceneTests" runstate="Runnable" testcasecount="1" result="Passed" start-time="2026-10-13 10:47:03Z" end-time="2026-10-13 10:47:04Z" duration="0.854895" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-case id="1002" name="SceneHostInputToJudgementAndVisual" fullname="SceneTests.SceneHostInputToJudgementAndVisual" methodname="SceneHostInputToJudgementAndVisual" classname="SceneTests" runstate="Runnable" seed="72605315" result="Passed" start-time="2026-10-13 10:47:03Z" end-time="2026-10-13 10:47:04Z" duration="0.818501" asserts="0">
+          <properties>
+            <property name="_JOINTYPE" value="UnityCombinatorial" />
+          </properties>
+        </test-case>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

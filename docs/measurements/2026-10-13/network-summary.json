@@ -1,0 +1,12 @@
+{
+    "join_exit":  0,
+    "states_equal":  true,
+    "fields":  [
+                   "position",
+                   "health",
+                   "skill event"
+               ],
+    "host_exit":  0,
+    "shared_two_player_ticks":  100,
+    "transport":  "two separate Windows players, loopback UDP"
+}
